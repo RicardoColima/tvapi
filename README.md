@@ -1,3 +1,5 @@
+# En desarrollo
+
 # 📺 TV Series App
 
 Una aplicación web moderna para descubrir, explorar y gestionar tu colección de series de televisión favoritas. Construida con Vue.js 3 y diseñada con una interfaz elegante y responsiva.
